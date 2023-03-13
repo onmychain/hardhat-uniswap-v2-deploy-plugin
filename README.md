@@ -1,5 +1,4 @@
-[![Build](https://github.com/b10k-io/hardhat-uniswap-v2-deploy-plugin/actions/workflows/build.yml/badge.svg)](https://github.com/b10k-io/hardhat-uniswap-v2-deploy-plugin/actions/workflows/build.yml)
-[![Node.js Package](https://github.com/b10k-io/hardhat-uniswap-v2-deploy-plugin/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/b10k-io/hardhat-uniswap-v2-deploy-plugin/actions/workflows/npm-publish.yml)
+
 
 # hardhat-uniswap-v2-deploy-plugin
 
