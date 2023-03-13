@@ -76,7 +76,7 @@ There are no additional steps you need to take for this plugin to work.
 
 ## Detailed Usage Example
 
-Please see [protect.test.ts](test/project.test.ts) file. It shows you how to deploy and interact with the contracts i.e. adding liquidity, swapping tokens.
+Please see [project.test.ts](test/project.test.ts) file. It shows you how to deploy and interact with the contracts i.e. adding liquidity, swapping tokens.
 
 Below is a full example of the usage.
 
