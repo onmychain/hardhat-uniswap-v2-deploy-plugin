@@ -1,4 +1,5 @@
-
+[![Build](https://github.com/onmychain/hardhat-uniswap-v2-deploy-plugin/actions/workflows/build.yml/badge.svg)](https://github.com/onmychain/hardhat-uniswap-v2-deploy-plugin/actions/workflows/build.yml)
+[![Node.js Package](https://github.com/onmychain/hardhat-uniswap-v2-deploy-plugin/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/onmychain/hardhat-uniswap-v2-deploy-plugin/actions/workflows/npm-publish.yml)
 
 # hardhat-uniswap-v2-deploy-plugin
 
@@ -19,25 +20,25 @@ Feedback, improvment suggestions are welcome.
 Install the plugin.
 
 ```bash
-npm install --save-dev @b10k.io/hardhat-uniswap-v2-deploy-plugin
+npm install --save-dev @onmychain/hardhat-uniswap-v2-deploy-plugin
 ```
 
 or 
 
 ```bash
-yarn add --dev @b10k.io/hardhat-uniswap-v2-deploy-plugin
+yarn add --dev @onmychain/hardhat-uniswap-v2-deploy-plugin
 ```
 
 Import the plugin in your `hardhat.config.js`:
 
 ```js
-require("@b10k.io/hardhat-uniswap-v2-deploy-plugin");
+require("@onmychain/hardhat-uniswap-v2-deploy-plugin");
 ```
 
 Or if you are using TypeScript, in your `hardhat.config.ts`:
 
 ```ts
-import "@b10k.io/hardhat-uniswap-v2-deploy-plugin";
+import "@onmychain/hardhat-uniswap-v2-deploy-plugin";
 ```
 
 ## Environment extensions
